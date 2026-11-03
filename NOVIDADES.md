@@ -3,6 +3,29 @@
 O Otavix Launcher mostra este arquivo na página "Novidades" do jogo. Cada atualização tem um título
 "## <data> · <versão>" e o texto em português (### pt), inglês (### en) e espanhol (### es). As mais novas ficam em cima.
 
+## 03/11/2026 · 0.1.2
+### pt
+- **Vídeos completos e com som limpo**: as cutscenes não são mais puladas e o áudio delas não picota.
+- **Névoa corrigida**: a névoa verde que cobria o cenário (no navio) e a fumaça que escurecia o Kratos no começo sumiram; os efeitos que leem a profundidade agora saem como no PS2.
+- **Controle novo**: Xbox (XInput), DualSense e DualShock 4 por USB ou Bluetooth e outros controles USB, com **vibração**. Corrigido o analógico que invertia no fim do curso.
+- **Medidor de desempenho (F10)**: FPS, tempo de quadro, uso de CPU/GPU, temperaturas, VRAM e RAM.
+- Imagem estável: o entrelaçamento agora junta os dois campos (antes a imagem tremia, principalmente em telas grandes/4K).
+- A janela de depuração não abre mais junto com o jogo (F1 mostra, se precisar).
+### en
+- **Full videos with clean sound**: cutscenes are no longer skipped and their audio no longer crackles.
+- **Fog fixed**: the green fog that covered the scenery (on the ship) and the smoke that darkened Kratos at the start are gone; effects that read the depth buffer now look like on the PS2.
+- **New controller support**: Xbox (XInput), DualSense and DualShock 4 over USB or Bluetooth and other USB pads, with **vibration**. Fixed the analog stick flipping at the end of its travel.
+- **Performance meter (F10)**: FPS, frame time, CPU/GPU usage, temperatures, VRAM and RAM.
+- Stable image: interlacing now weaves both fields (the image used to shake, mostly on big/4K screens).
+- The debug window no longer opens with the game (F1 shows it if needed).
+### es
+- **Vídeos completos y con sonido limpio**: las cinemáticas ya no se saltan y su audio ya no se entrecorta.
+- **Niebla corregida**: la niebla verde que cubría el escenario (en el barco) y el humo que oscurecía a Kratos al inicio desaparecieron; los efectos que leen la profundidad ahora se ven como en PS2.
+- **Mando nuevo**: Xbox (XInput), DualSense y DualShock 4 por USB o Bluetooth y otros mandos USB, con **vibración**. Corregido el analógico que se invertía al final del recorrido.
+- **Medidor de rendimiento (F10)**: FPS, tiempo de cuadro, uso de CPU/GPU, temperaturas, VRAM y RAM.
+- Imagen estable: el entrelazado ahora une los dos campos (antes la imagen temblaba, sobre todo en pantallas grandes/4K).
+- La ventana de depuración ya no se abre con el juego (F1 la muestra si hace falta).
+
 ## 02/11/2026 · 0.1.1
 ### pt
 - **Telas ultrawide**: a proporção da imagem agora tem 21:9, 32:9 e "Igual ao monitor", além de 4:3 e 16:9. Em tela larga o jogo abre o campo de visão para os lados, sem esticar o cenário nem os personagens, e não precisa ligar a opção WideScreen do jogo. O 21:9 se ajusta ao seu monitor (2560x1080, 3440x1440...). O HUD fica um pouco mais largo e os vídeos continuam em 4:3.
