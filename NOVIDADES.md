@@ -1,7 +1,23 @@
 # Novidades do port
 
 O Otavix Launcher mostra este arquivo na página "Novidades" do jogo. Cada atualização tem um título
-"## 06/11/2026 · 0.1.5
+"## <data> · <versão>" e o texto em português (### pt), inglês (### en) e espanhol (### es). As mais novas ficam em cima.
+
+## 12/11/2026 · 0.1.6
+### pt
+- **Memory card funciona**: o jogo agora encontra o cartão, salva e carrega o save. Antes ele não via cartão nenhum e nada era salvo. O cartão é novo e é formatado na primeira vez.
+- Na primeira vez depois de uma atualização, uma mensagem avisa enquanto os gráficos são preparados (pode levar até 1 minuto).
+- Motor 0.1.8: na próxima geração o gerador refaz da etapa 3 sozinho (o disco extraído continua valendo).
+### en
+- **Memory card works**: the game now finds the card, saves and loads the save. Before, it did not see any card and nothing was saved. The card is new and gets formatted the first time.
+- The first time after an update, a message is shown while the graphics are being prepared (it may take up to 1 minute).
+- Engine 0.1.8: on the next generation the generator redoes it from step 3 on its own (the extracted disc is kept).
+### es
+- **La memory card funciona**: el juego ahora encuentra la tarjeta, guarda y carga la partida. Antes no veía ninguna tarjeta y no se guardaba nada. La tarjeta es nueva y se formatea la primera vez.
+- La primera vez tras una actualización, un mensaje avisa mientras se preparan los gráficos (puede tardar hasta 1 minuto).
+- Motor 0.1.8: en la próxima generación el generador rehace desde la etapa 3 solo (el disco extraído se mantiene).
+
+## 06/11/2026 · 0.1.5
 ### pt
 - **Mais fps pelo launcher**: aberto pelo launcher, o jogo deixava de usar a thread própria de desenho e esperava a placa de vídeo a cada quadro. Isso derrubava o fps, principalmente em placas de entrada (RTX 5060, por exemplo). Corrigido.
 - Reduções e ampliações de imagem que o jogo faz nos efeitos agora seguem o PS2 ponto a ponto.
@@ -14,8 +30,6 @@ O Otavix Launcher mostra este arquivo na página "Novidades" do jogo. Cada atual
 - **Más fps desde el launcher**: abierto desde el launcher, el juego dejaba de usar su propio hilo de dibujo y esperaba a la tarjeta gráfica en cada fotograma. Eso bajaba los fps, sobre todo en tarjetas de entrada (una RTX 5060, por ejemplo). Corregido.
 - Las reducciones y ampliaciones de imagen que el juego hace en sus efectos ahora siguen a la PS2 píxel a píxel.
 - Motor 0.1.2: en la próxima generación el generador rehace desde la etapa 3 solo (el disco extraído se mantiene).
-
-## <data> · <versão>" e o texto em português (### pt), inglês (### en) e espanhol (### es). As mais novas ficam em cima.
 
 ## 06/11/2026 · 0.1.4
 ### pt
