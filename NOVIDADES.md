@@ -3,6 +3,17 @@
 O Otavix Launcher mostra este arquivo na página "Novidades" do jogo. Cada atualização tem um título
 "## <data> · <versão>" e o texto em português (### pt), inglês (### en) e espanhol (### es). As mais novas ficam em cima.
 
+## 12/11/2026 · 0.1.7
+### pt
+- **Mais fps em processadores de 6 núcleos** (como Core i5 e Ryzen 5) com outros programas abertos: o motor não prende mais as tarefas principais em núcleos fixos do processador. Num Core i5-11400F com outro jogo aberto, a média no combate foi de ~32 para ~50 fps e as telas iniciais voltaram a 60 fps.
+- Motor 0.1.9: na próxima geração o gerador refaz da etapa 3 sozinho (o disco extraído continua valendo).
+### en
+- **Higher fps on 6-core processors** (such as Core i5 and Ryzen 5) with other programs open: the engine no longer pins its main tasks to fixed cores. On a Core i5-11400F with another game open, the average in combat went from ~32 to ~50 fps and the opening screens are back at 60 fps.
+- Engine 0.1.9: on the next generation the generator redoes it from step 3 on its own (the extracted disc is kept).
+### es
+- **Más fps en procesadores de 6 núcleos** (como Core i5 y Ryzen 5) con otros programas abiertos: el motor ya no fija sus tareas principales en núcleos fijos. En un Core i5-11400F con otro juego abierto, el promedio en combate pasó de ~32 a ~50 fps y las pantallas iniciales volvieron a 60 fps.
+- Motor 0.1.9: en la próxima generación el generador rehace desde la etapa 3 solo (el disco extraído se mantiene).
+
 ## 12/11/2026 · 0.1.6
 ### pt
 - **Memory card funciona**: o jogo agora encontra o cartão, salva e carrega o save. Antes ele não via cartão nenhum e nada era salvo. O cartão é novo e é formatado na primeira vez.
