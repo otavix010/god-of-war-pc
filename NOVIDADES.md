@@ -3,6 +3,17 @@
 O Otavix Launcher mostra este arquivo na página "Novidades" do jogo. Cada atualização tem um título
 "## <data> · <versão>" e o texto em português (### pt), inglês (### en) e espanhol (### es). As mais novas ficam em cima.
 
+## 14/11/2026 · 0.1.10
+### pt
+- **Texturas mais nítidas com resolução interna (2x/4x)**: parte das texturas ainda saía na resolução original ampliada; agora sai na resolução escolhida.
+- Motor 0.1.12: na próxima geração o gerador refaz da etapa 3 sozinho (o disco extraído continua valendo).
+### en
+- **Sharper textures with internal resolution (2x/4x)**: some textures still came out at the original resolution scaled up; they now render at the chosen resolution.
+- Engine 0.1.12: on the next generation the generator redoes it from step 3 on its own (the extracted disc is kept).
+### es
+- **Texturas más nítidas con resolución interna (2x/4x)**: parte de las texturas todavía salía en la resolución original ampliada; ahora sale en la resolución elegida.
+- Motor 0.1.12: en la próxima generación el generador rehace desde la etapa 3 solo (el disco extraído se mantiene).
+
 ## 13/11/2026 · 0.1.9
 ### pt
 - **Resolução interna (2x/4x) de verdade**: a imagem final do jogo saía na resolução original ampliada, e por isso ficava pixelada mesmo em 4x. Agora sai na resolução escolhida, bem mais nítida.
